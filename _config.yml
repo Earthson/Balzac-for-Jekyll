@@ -34,7 +34,9 @@ links:
 timezone:    Asia/Shanghai
 future:      true
 pygments:    true
+#markdown:    redcarpet
 markdown:    kramdown
+markdown_ext: foo
 
 kramdown:
   auto_ids: true
